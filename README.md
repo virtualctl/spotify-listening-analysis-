@@ -43,3 +43,10 @@ What I learned:
   - Building reusable functions
   - Exception handling
   - Structuring a complete analytics workflow
+
+Future Improvements:
+  - Visualize listening trends with matplotlib
+  - Add yearly comparison dashboards
+  - Integrate Last.fm API for live data retrieval
+  - Identify artist discovery patterns over time
+  - Build a web interface using Flask
